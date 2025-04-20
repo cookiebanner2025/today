@@ -19,7 +19,7 @@ const config = {
     bannerPosition: 'right', // 'left', 'right', 'center'
     
     // Banner Dimensions
-    bannerWidth: 440, // in pixels
+    bannerWidth: 540, // in pixels
     bannerHeight: 'auto', // 'auto' or pixels
     
     // Floating Button Positions
