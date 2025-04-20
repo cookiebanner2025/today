@@ -16,7 +16,7 @@ const config = {
     allowedDomains: ['dev-rpractice.pantheonsite.io', 'yourdomain.com'],
     
     // Banner Position (left, right, center)
-    bannerPosition: 'right', // 'left', 'right', 'center'
+    bannerPosition: 'left', // 'left', 'right', 'center'
     
     // Banner Dimensions
     bannerWidth: 540, // in pixels
