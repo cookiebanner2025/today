@@ -14,8 +14,8 @@
 // ============== CONFIGURATION SECTION ============== //
 const config = {
     // General Settings
-    uiTheme: 'default', // 'default' or 'classic'
-    uiDesign: 'design1', // 'design1' or 'design2'
+    uiTheme: 'classic', // 'default' or 'classic'
+    uiDesign: 'design2', // 'design1' or 'design2'
     enableDarkMode: true, // Enable dark mode support
     autoDetectColorScheme: true, // Automatically detect user's preferred color scheme
     
