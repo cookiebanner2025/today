@@ -16,7 +16,7 @@ const config = {
     
     // UI Positioning
     uiPosition: {
-        bannerPosition: 'right', // 'left', 'right', or 'center'
+        bannerPosition: 'left', // 'left', 'right', or 'center'
         floatingButtonPosition: 'right', // 'left' or 'right'
         adminButtonPosition: 'right', // 'left' or 'right'
         showFloatingButton: true,
@@ -33,7 +33,7 @@ const config = {
     
     // Appearance Settings
     appearance: {
-        themeMode: 'auto', // 'light', 'dark', or 'auto'
+        themeMode: 'light', // 'light', 'dark', or 'auto'
         colors: {
             light: {
                 primary: '#2ecc71',
